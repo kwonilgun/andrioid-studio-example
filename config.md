@@ -2,7 +2,6 @@
 ## First Repo using Git!!
 
 AAAAAAA
-ZZZZZZ
 
 XXXXXXX
 you chage file again
